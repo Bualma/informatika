@@ -1,3 +1,4 @@
+#Code 20 04
 a = float(input())
 b = float(input())
 c = float(input())
@@ -23,3 +24,4 @@ else:
 n = i + o + l + m + q
 print('Natural double-digit numbers ending in 5: ', n, '/n')
 print('Other numbers (unnatural, unambiguous, and not ending in 5'): ', 5-n)
+#This is a great code for the assignment for the assessment of "5", which we threw a teacher on computer science. The code was made by HeadNead.
